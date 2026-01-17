@@ -1,7 +1,7 @@
 import { Dialog, DialogPanel, DialogTitle, Transition, TransitionChild } from '@headlessui/react';
 import { Fragment, type JSX } from 'react';
 import { useAppStore } from '../stores/useAppStore';
-import { Recipe } from '../types';
+import type { Recipe } from '../types';
 
 export default function Modal() {
   

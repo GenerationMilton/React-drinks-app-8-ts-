@@ -1,6 +1,5 @@
 import type { StateCreator} from 'zustand'
 import type { FavoriteSliceType } from './favoritesSlice'
-import type { RecipeSliceType } from './recipeSlice'
 
 type Notification = {
     text: string
