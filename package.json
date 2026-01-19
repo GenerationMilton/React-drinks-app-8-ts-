@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ai-sdk/provider": "^3.0.4",
+    "@ai-sdk/react": "^3.0.41",
     "@headlessui/react": "^2.2.9",
     "@heroicons/react": "^2.2.0",
     "@openrouter/ai-sdk-provider": "^1.5.4",
